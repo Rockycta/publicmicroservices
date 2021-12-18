@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "stock",
+      "type": "com.automobiles.inventorymgmt.service.ManageStockService",
+      "sourceType": "com.automobiles.inventorymgmt.service.ManageStockService"
+    }
+  ],
+  "properties": [
+    {
+      "name": "stock.sla-days",
+      "type": "java.lang.Integer",
+      "sourceType": "com.automobiles.inventorymgmt.service.ManageStockService"
+    },
+    {
+      "name": "stock.transport-type",
+      "type": "java.lang.String",
+      "sourceType": "com.automobiles.inventorymgmt.service.ManageStockService"
+    }
+  ],
+  "hints": []
+}
